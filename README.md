@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MMSkeleton
 
 ## Introduction
@@ -72,3 +73,6 @@ Sijie Yan     : ys016@ie.cuhk.edu.hk
 Jingbo Wang   : wangjingbo1219@foxmail.com
 Yuanjun Xiong : bitxiong@gmail.com
 ```
+=======
+# mmskeleton_copy
+>>>>>>> 65462961640aa9975c30beb5ea15a454b1342d18
